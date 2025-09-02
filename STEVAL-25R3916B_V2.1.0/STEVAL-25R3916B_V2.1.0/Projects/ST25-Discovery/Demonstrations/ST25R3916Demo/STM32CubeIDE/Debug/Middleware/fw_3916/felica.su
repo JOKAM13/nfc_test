@@ -1,0 +1,4 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/felica.c:67:12:felicaInitialize	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/felica.c:73:12:felicaDeinitialize	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/felica.c:84:12:felicaTxRxNBytes	24	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/felica.c:90:12:felicaPoll	24	static

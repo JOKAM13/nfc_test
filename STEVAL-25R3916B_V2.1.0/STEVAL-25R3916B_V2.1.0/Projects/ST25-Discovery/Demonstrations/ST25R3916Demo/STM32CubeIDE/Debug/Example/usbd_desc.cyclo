@@ -1,0 +1,8 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Projects/ST25-Discovery/Demonstrations/ST25R3916Demo/Src/usbd_desc.c:259:10:USBD_HID_DeviceDescriptor	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Projects/ST25-Discovery/Demonstrations/ST25R3916Demo/Src/usbd_desc.c:273:10:USBD_HID_LangIDStrDescriptor	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Projects/ST25-Discovery/Demonstrations/ST25R3916Demo/Src/usbd_desc.c:435:13:IntToUnicode	4
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Projects/ST25-Discovery/Demonstrations/ST25R3916Demo/Src/usbd_desc.c:320:10:USBD_HID_SerialStrDescriptor	2
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Projects/ST25-Discovery/Demonstrations/ST25R3916Demo/Src/usbd_desc.c:287:10:USBD_HID_ProductStrDescriptor	2
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Projects/ST25-Discovery/Demonstrations/ST25R3916Demo/Src/usbd_desc.c:306:10:USBD_HID_ManufacturerStrDescriptor	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Projects/ST25-Discovery/Demonstrations/ST25R3916Demo/Src/usbd_desc.c:338:10:USBD_HID_ConfigStrDescriptor	2
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Projects/ST25-Discovery/Demonstrations/ST25R3916Demo/Src/usbd_desc.c:357:10:USBD_HID_InterfaceStrDescriptor	2

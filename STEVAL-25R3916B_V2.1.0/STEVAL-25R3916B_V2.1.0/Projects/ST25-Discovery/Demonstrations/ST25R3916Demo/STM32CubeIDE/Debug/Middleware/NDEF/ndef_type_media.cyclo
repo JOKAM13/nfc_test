@@ -1,0 +1,4 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/message/ndef_type_media.c:157:12:ndefMediaToRecord	4
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/message/ndef_type_media.c:79:12:ndefMediaInit	4
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/message/ndef_type_media.c:104:12:ndefGetMedia	5
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/message/ndef_type_media.c:127:12:ndefRecordToMedia	6

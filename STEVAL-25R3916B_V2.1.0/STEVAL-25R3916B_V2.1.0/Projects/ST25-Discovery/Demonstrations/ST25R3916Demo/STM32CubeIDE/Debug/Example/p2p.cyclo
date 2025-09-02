@@ -1,0 +1,17 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Projects/ST25-Discovery/Demonstrations/ST25R3916Demo/Src/p2p.c:800:13:p2pAlwaysTrue	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Projects/ST25-Discovery/Demonstrations/ST25R3916Demo/Src/p2p.c:1016:6:doNothingURI	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Projects/ST25-Discovery/Demonstrations/ST25R3916Demo/Src/p2p.c:1018:6:doNothingVcard	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Projects/ST25-Discovery/Demonstrations/ST25R3916Demo/Src/p2p.c:1021:13:enableDataTransfer	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Projects/ST25-Discovery/Demonstrations/ST25R3916Demo/Src/p2p.c:1003:13:P2P_SendNdef	5
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Projects/ST25-Discovery/Demonstrations/ST25R3916Demo/Src/p2p.c:283:6:p2pBigVcardDemo	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Projects/ST25-Discovery/Demonstrations/ST25R3916Demo/Src/p2p.c:551:13:exampleRfalPollerCollResolution	9
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Projects/ST25-Discovery/Demonstrations/ST25R3916Demo/Src/p2p.c:727:13:exampleRfalPollerNfcDepActivate	2
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Projects/ST25-Discovery/Demonstrations/ST25R3916Demo/Src/p2p.c:617:13:exampleRfalPollerActivation	15
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Projects/ST25-Discovery/Demonstrations/ST25R3916Demo/Src/p2p.c:244:13:p2pUriDemo	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Projects/ST25-Discovery/Demonstrations/ST25R3916Demo/Src/p2p.c:295:13:p2p_displayNDEF	5
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Projects/ST25-Discovery/Demonstrations/ST25R3916Demo/Src/p2p.c:947:31:P2P_TargetConnected	9
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Projects/ST25-Discovery/Demonstrations/ST25R3916Demo/Src/p2p.c:351:24:p2pRfalPollerRun	26
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Projects/ST25-Discovery/Demonstrations/ST25R3916Demo/Src/p2p.c:814:12:nfcDepTxRx	9
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Projects/ST25-Discovery/Demonstrations/ST25R3916Demo/Src/p2p.c:896:6:P2P_StartDemo	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Projects/ST25-Discovery/Demonstrations/ST25R3916Demo/Src/p2p.c:1031:6:disableDataTransfer	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Projects/ST25-Discovery/Demonstrations/ST25R3916Demo/Src/p2p.c:1043:24:P2P_RunDemo	19

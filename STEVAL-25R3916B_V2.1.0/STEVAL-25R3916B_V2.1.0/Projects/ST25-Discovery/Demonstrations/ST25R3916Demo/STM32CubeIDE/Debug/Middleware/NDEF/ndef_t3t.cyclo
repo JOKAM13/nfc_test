@@ -1,0 +1,17 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t3t.c:129:19:ndefT3TPollerReadBlocks	10
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t3t.c:296:19:ndefT3TPollerReadAttributeInformationBlock	7
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t3t.c:517:19:ndefT3TPollerWriteBlocks	5
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t3t.c:664:19:ndefT3TPollerWriteAttributeInformationBlock	4
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t3t.c:185:12:ndefT3TPollerReadBytes	21
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t3t.c:342:12:ndefT3TPollerContextInitialization	4
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t3t.c:360:12:ndefT3TPollerNdefDetect	10
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t3t.c:446:12:ndefT3TPollerReadRawMessage	12
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t3t.c:549:12:ndefT3TPollerWriteBytes	21
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t3t.c:788:12:ndefT3TPollerTagFormat	7
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t3t.c:830:12:ndefT3TPollerCheckPresence	3
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t3t.c:845:12:ndefT3TPollerCheckAvailableSpace	4
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t3t.c:864:12:ndefT3TPollerBeginWriteMessage	5
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t3t.c:892:12:ndefT3TPollerEndWriteMessage	5
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t3t.c:730:12:ndefT3TPollerWriteRawMessage	11
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t3t.c:922:12:ndefT3TPollerWriteRawMessageLen	4
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t3t.c:939:12:ndefT3TPollerSetReadOnly	6

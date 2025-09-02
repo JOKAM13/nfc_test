@@ -1,0 +1,16 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/nfc.c:606:6:nfcDeactivateCheck	0	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/nfc.c:119:12:nfcInitialize	56	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/nfc.c:212:12:nfcDeinitialize	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/nfc.c:220:12:nfcSetTxBitrate	16	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/nfc.c:251:12:nfcSetRxBitrate	16	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/nfc.c:284:12:nfcTxNBytes	24	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/nfc.c:295:12:nfcRxNBytes	24	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/nfc.c:326:12:nfcDepTx	16	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/nfc.c:343:12:nfcDepRx	24	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/nfc.c:365:12:nfcDepInitiatorHandleActivation	32	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/nfc.c:404:12:nfcDepATR	40	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/nfc.c:442:12:nfcDepPSL	24	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/nfc.c:483:12:nfcDepDeselect	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/nfc.c:488:12:nfcDepRelease	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/nfc.c:493:6:nfcDepTargetSetParams	16	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/nfc.c:508:12:NfcDepTargetHandleActivation	48	static

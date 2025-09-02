@@ -1,0 +1,6 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/message/ndef_type_flat.c:79:17:ndefFlatPayloadTypePayloadGetLength	3
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/message/ndef_type_flat.c:91:23:ndefFlatPayloadTypePayloadItem	5
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/message/ndef_type_flat.c:175:12:ndefFlatPayloadTypeToRecord	4
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/message/ndef_type_flat.c:111:12:ndefFlatPayloadTypeInit	3
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/message/ndef_type_flat.c:131:12:ndefGetFlatPayloadType	4
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/message/ndef_type_flat.c:147:12:ndefRecordToFlatPayloadType	6

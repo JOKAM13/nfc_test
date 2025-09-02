@@ -1,0 +1,4 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_t1t.c:125:12:rfalT1TPollerInitialize	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_t1t.c:141:12:rfalT1TPollerRid	40	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_t1t.c:169:12:rfalT1TPollerRall	32	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_t1t.c:188:12:rfalT1TPollerWrite	40	static

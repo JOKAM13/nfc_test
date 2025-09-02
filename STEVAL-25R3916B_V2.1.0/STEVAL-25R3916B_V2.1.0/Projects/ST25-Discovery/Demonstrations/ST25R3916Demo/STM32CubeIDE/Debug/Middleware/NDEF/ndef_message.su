@@ -1,0 +1,7 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/message/ndef_message.c:93:12:ndefMessageInit	0	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/message/ndef_message.c:111:12:ndefMessageGetInfo	24	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/message/ndef_message.c:140:10:ndefMessageGetRecordCount	16	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/message/ndef_message.c:154:12:ndefMessageAppend	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/message/ndef_message.c:202:12:ndefMessageDecode	40	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/message/ndef_message.c:249:12:ndefMessageEncode	48	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/message/ndef_message.c:299:13:ndefMessageFindRecordType	16	static

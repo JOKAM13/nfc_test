@@ -1,0 +1,13 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_poller.c:97:12:ndefPollerContextInitialization	6
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_poller.c:260:12:ndefPollerNdefDetect	4
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_poller.c:281:12:ndefPollerReadRawMessage	4
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_poller.c:302:12:ndefPollerReadBytes	4
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_poller.c:325:12:ndefPollerWriteRawMessage	4
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_poller.c:346:12:ndefPollerTagFormat	4
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_poller.c:367:12:ndefPollerWriteRawMessageLen	4
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_poller.c:388:12:ndefPollerWriteBytes	4
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_poller.c:409:12:ndefPollerCheckPresence	4
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_poller.c:430:12:ndefPollerCheckAvailableSpace	4
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_poller.c:451:12:ndefPollerBeginWriteMessage	4
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_poller.c:472:12:ndefPollerEndWriteMessage	4
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_poller.c:493:12:ndefPollerSetReadOnly	4

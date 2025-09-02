@@ -1,0 +1,5 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/st25r3916/st25r3916_led.c:82:6:st25r3916ledInit	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/st25r3916/st25r3916_led.c:94:6:st25r3916ledEvtIrq	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/st25r3916/st25r3916_led.c:121:6:st25r3916ledEvtWrReg	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/st25r3916/st25r3916_led.c:138:6:st25r3916ledEvtWrMultiReg	16	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/st25r3916/st25r3916_led.c:150:6:st25r3916ledEvtCmd	8	static

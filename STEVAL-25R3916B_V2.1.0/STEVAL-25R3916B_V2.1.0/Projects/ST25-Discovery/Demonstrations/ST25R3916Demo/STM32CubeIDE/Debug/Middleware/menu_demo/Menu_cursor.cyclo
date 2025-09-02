@@ -1,0 +1,8 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/menu_demo/Menu_cursor.c:259:17:Menu_CursorGetPosition	2
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/menu_demo/Menu_cursor.c:269:13:Menu_DisplayBar	2
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/menu_demo/Menu_cursor.c:252:13:Menu_ClearCursor	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/menu_demo/Menu_cursor.c:19:15:Menu_BarInit	6
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/menu_demo/Menu_cursor.c:60:15:Menu_CursorInit	9
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/menu_demo/Menu_cursor.c:126:15:Menu_CursorSetValue	4
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/menu_demo/Menu_cursor.c:154:9:Menu_CursorInput	11
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/menu_demo/Menu_cursor.c:199:9:Menu_CursorJoyInput	17

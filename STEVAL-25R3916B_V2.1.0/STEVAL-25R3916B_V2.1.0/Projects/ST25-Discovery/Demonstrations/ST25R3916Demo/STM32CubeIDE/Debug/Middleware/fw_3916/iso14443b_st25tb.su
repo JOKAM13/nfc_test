@@ -1,0 +1,10 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/iso14443b_st25tb.c:57:12:iso14443B_ST25TB_Initiate	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/iso14443b_st25tb.c:62:12:iso14443B_ST25TB_Pcall16	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/iso14443b_st25tb.c:67:12:iso14443B_ST25TB_Slot_marker	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/iso14443b_st25tb.c:72:12:iso14443B_ST25TB_Select	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/iso14443b_st25tb.c:77:12:iso14443B_ST25TB_Get_UID	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/iso14443b_st25tb.c:82:12:iso14443B_ST25TB_Completion	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/iso14443b_st25tb.c:87:12:iso14443B_ST25TB_Reset_to_inventory	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/iso14443b_st25tb.c:92:12:iso14443B_ST25TB_Read_block	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/iso14443b_st25tb.c:97:12:iso14443B_ST25TB_Write_block	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/iso14443b_st25tb.c:102:12:iso14443B_ST25TB_SingulateAndGetUID	24	static

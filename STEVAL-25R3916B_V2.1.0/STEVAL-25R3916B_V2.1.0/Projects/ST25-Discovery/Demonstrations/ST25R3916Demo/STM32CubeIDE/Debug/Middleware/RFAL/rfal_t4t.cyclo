@@ -1,0 +1,9 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_t4t.c:99:12:rfalT4TPollerComposeCAPDU	8
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_t4t.c:168:12:rfalT4TPollerParseRAPDU	4
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_t4t.c:194:12:rfalT4TPollerComposeSelectAppl	4
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_t4t.c:226:12:rfalT4TPollerComposeSelectFile	4
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_t4t.c:258:12:rfalT4TPollerComposeSelectFileV1Mapping	4
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_t4t.c:290:12:rfalT4TPollerComposeReadData	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_t4t.c:313:12:rfalT4TPollerComposeReadDataODO	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_t4t.c:344:12:rfalT4TPollerComposeWriteData	4
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_t4t.c:377:12:rfalT4TPollerComposeWriteDataODO	5

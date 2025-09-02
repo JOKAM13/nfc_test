@@ -1,0 +1,5 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jdmainct.c:307:1:start_pass_main	11
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jdmainct.c:345:1:process_data_simple_main	4
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jdmainct.c:385:1:process_data_context_main	20
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jdmainct.c:459:1:process_data_crank_post	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jdmainct.c:476:1:jinit_d_main_controller	8

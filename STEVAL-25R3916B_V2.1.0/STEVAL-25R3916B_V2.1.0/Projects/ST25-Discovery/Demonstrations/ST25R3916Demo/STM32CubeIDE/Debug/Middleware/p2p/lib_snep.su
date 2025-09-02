@@ -1,0 +1,13 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/p2p/lib_snep.c:79:16:SNEP_Connect2LLCPServer	0	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/p2p/lib_snep.c:100:16:SNEP_Disconnect2LLCPServer	0	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/p2p/lib_snep.c:452:16:SNEP_SendRES	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/p2p/lib_snep.c:419:16:SNEP_SendPutCMD	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/p2p/lib_snep.c:429:16:SNEP_SendContinue	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/p2p/lib_snep.c:111:9:SNEP_Init	40	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/p2p/lib_snep.c:144:9:SNEP_RemoveService	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/p2p/lib_snep.c:163:6:SNEP_IsTransmissionComplete	0	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/p2p/lib_snep.c:172:6:SNEP_IsConnectionTerminated	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/p2p/lib_snep.c:188:9:SNEP_SendNDEF	16	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/p2p/lib_snep.c:224:9:SNEP_RetrieveNDEF	0	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/p2p/lib_snep.c:235:6:Server_SNEP	16	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/p2p/lib_snep.c:468:6:SNEP_Free	8	static

@@ -1,0 +1,12 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_st25tb.c:241:12:rfalSt25tbPollerInitialize	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_st25tb.c:275:12:rfalSt25tbPollerInitiate	4
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_st25tb.c:248:12:rfalSt25tbPollerCheckPresence	4
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_st25tb.c:306:12:rfalSt25tbPollerPcall	2
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_st25tb.c:330:12:rfalSt25tbPollerSlotMarker	3
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_st25tb.c:359:12:rfalSt25tbPollerSelect	3
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_st25tb.c:384:12:rfalSt25tbPollerGetUID	2
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_st25tb.c:408:12:rfalSt25tbPollerCollisionResolution	19
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_st25tb.c:459:12:rfalSt25tbPollerReadBlock	2
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_st25tb.c:484:12:rfalSt25tbPollerWriteBlock	6
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_st25tb.c:535:12:rfalSt25tbPollerCompletion	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_st25tb.c:548:12:rfalSt25tbPollerResetToInventory	1

@@ -1,0 +1,6 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/topaz.c:67:12:topazInitialize	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/topaz.c:73:12:topazDeinitialize	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/topaz.c:83:12:topazReqaWupa	24	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/topaz.c:91:12:topazReadUID	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/topaz.c:105:12:topazReadAll	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/topaz.c:110:12:topazWriteByte	8	static

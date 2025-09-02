@@ -1,0 +1,15 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/Components/ili9341_cube/ili9341_cube.c:505:10:ili9341_GetLcdPixelWidth	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/Components/ili9341_cube/ili9341_cube.c:516:10:ili9341_GetLcdPixelHeight	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/Components/ili9341_cube/ili9341_cube.c:471:6:ili9341_WriteReg	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/Components/ili9341_cube/ili9341_cube.c:248:6:ili9341_DisplayOn	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/Components/ili9341_cube/ili9341_cube.c:259:6:ili9341_DisplayOff	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/Components/ili9341_cube/ili9341_cube.c:112:6:ili9341_Init	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/Components/ili9341_cube/ili9341_cube.c:271:6:ili9341_SetCursor	3
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/Components/ili9341_cube/ili9341_cube.c:368:6:ili9341_WritePixel	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/Components/ili9341_cube/ili9341_cube.c:305:6:ili9341_SetDisplayWindow	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/Components/ili9341_cube/ili9341_cube.c:425:6:ili9341_DrawHLine	3
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/Components/ili9341_cube/ili9341_cube.c:450:6:ili9341_DrawVLine	3
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/Components/ili9341_cube/ili9341_cube.c:482:6:ili9341_WriteData	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/Components/ili9341_cube/ili9341_cube.c:493:10:ili9341_ReadData	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/Components/ili9341_cube/ili9341_cube.c:237:10:ili9341_ReadID	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/Components/ili9341_cube/ili9341_cube.c:383:10:ili9341_ReadPixel	2

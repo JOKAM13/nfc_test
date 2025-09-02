@@ -1,0 +1,5 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/Reader_common/firmware/STM/STM32/Src/timer.c:63:10:timerCalculateTimer	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/Reader_common/firmware/STM/STM32/Src/timer.c:70:6:timerIsExpired	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/Reader_common/firmware/STM/STM32/Src/timer.c:94:6:timerDelay	2
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/Reader_common/firmware/STM/STM32/Src/timer.c:105:6:timerStopwatchStart	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/Reader_common/firmware/STM/STM32/Src/timer.c:112:10:timerStopwatchMeasure	1

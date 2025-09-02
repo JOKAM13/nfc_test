@@ -1,0 +1,11 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jdmarker.c:238:1:get_sof	31
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jdmarker.c:728:1:get_interesting_appn	39
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jdmarker.c:882:1:skip_variable	6
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jdmarker.c:911:1:next_marker	12
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jdmarker.c:1159:1:read_restart_marker	5
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jdmarker.c:1288:1:reset_marker_reader	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jdmarker.c:424:1:get_dht	22
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jdmarker.c:994:1:read_markers	124
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jdmarker.c:1238:1:jpeg_resync_to_restart	8
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jdmarker.c:1308:1:jinit_marker_reader	2
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jdmarker.c:1395:1:jpeg_set_marker_processor	3

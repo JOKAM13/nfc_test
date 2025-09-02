@@ -1,0 +1,4 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jccoefct.c:73:1:start_iMCU_row	3
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jccoefct.c:101:1:start_pass_coef	3
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jccoefct.c:144:1:compress_data	18
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jccoefct.c:410:1:jinit_c_coef_controller	3

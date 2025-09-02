@@ -1,0 +1,3 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/tuneAntenna.c:362:17:calcF	4	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/tuneAntenna.c:388:19:getValues	24	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/fw_3916/DISCO-STM32L4x6/Src/tuneAntenna.c:102:12:tuneAntenna	120	static

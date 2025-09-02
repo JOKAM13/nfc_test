@@ -1,0 +1,8 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/Components/ad5112/ad5112.c:66:6:ad5112_Init	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/Components/ad5112/ad5112.c:76:9:ad5112_GetResistor	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/Components/ad5112/ad5112.c:132:9:ad5112_ReadSavedResistor	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/Components/ad5112/ad5112.c:143:9:ad5112_ReadResistorTolerance	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/Components/ad5112/ad5112.c:88:6:ad5112_SetResistor	16	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/Components/ad5112/ad5112.c:99:6:ad5112_Reset	16	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/Components/ad5112/ad5112.c:110:6:ad5112_Shutdown	16	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/Components/ad5112/ad5112.c:121:6:ad5112_Start	16	static

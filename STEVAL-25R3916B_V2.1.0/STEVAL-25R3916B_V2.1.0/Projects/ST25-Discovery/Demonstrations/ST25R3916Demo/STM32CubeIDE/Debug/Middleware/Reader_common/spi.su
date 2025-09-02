@@ -1,0 +1,4 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/Reader_common/firmware/STM/STM32/Src/spi.c:32:6:spiInit	0	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/Reader_common/firmware/STM/STM32/Src/spi.c:40:6:spiSelect	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/Reader_common/firmware/STM/STM32/Src/spi.c:45:6:spiDeselect	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/Reader_common/firmware/STM/STM32/Src/spi.c:50:19:spiTxRx	16	static

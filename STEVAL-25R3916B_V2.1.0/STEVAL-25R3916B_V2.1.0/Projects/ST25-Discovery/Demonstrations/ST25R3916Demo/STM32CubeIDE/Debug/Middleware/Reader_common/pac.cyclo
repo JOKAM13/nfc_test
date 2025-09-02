@@ -1,0 +1,4 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/Reader_common/firmware/STM/STM32/Src/pac.c:211:10:persistentAnalogConfig_CalcHash	3
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/Reader_common/firmware/STM/STM32/Src/pac.c:236:6:persistentAnalogConfig_GetHash	3
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/Reader_common/firmware/STM/STM32/Src/pac.c:268:9:persistentAnalogConfig_Program	7
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/Reader_common/firmware/STM/STM32/Src/pac.c:185:6:persistentAnalogConfig_Enable	6

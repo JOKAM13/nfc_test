@@ -1,0 +1,132 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+# Toolchain: GNU Tools for STM32 (13.3.rel1)
+################################################################################
+
+# Add inputs and outputs from these tool invocations to the build variables 
+C_SRCS += \
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_analogConfig.c \
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_crc.c \
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_dpo.c \
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_iso15693_2.c \
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_isoDep.c \
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_nfc.c \
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_nfcDep.c \
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_nfca.c \
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_nfcb.c \
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_nfcf.c \
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_nfcv.c \
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/st25r3916/rfal_rfst25r3916.c \
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_st25tb.c \
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_st25xv.c \
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_t1t.c \
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_t2t.c \
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_t4t.c \
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/st25r3916/st25r3916.c \
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/st25r3916/st25r3916_aat.c \
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/st25r3916/st25r3916_com.c \
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/st25r3916/st25r3916_irq.c \
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/st25r3916/st25r3916_led.c 
+
+OBJS += \
+./Middleware/RFAL/rfal_analogConfig.o \
+./Middleware/RFAL/rfal_crc.o \
+./Middleware/RFAL/rfal_dpo.o \
+./Middleware/RFAL/rfal_iso15693_2.o \
+./Middleware/RFAL/rfal_isoDep.o \
+./Middleware/RFAL/rfal_nfc.o \
+./Middleware/RFAL/rfal_nfcDep.o \
+./Middleware/RFAL/rfal_nfca.o \
+./Middleware/RFAL/rfal_nfcb.o \
+./Middleware/RFAL/rfal_nfcf.o \
+./Middleware/RFAL/rfal_nfcv.o \
+./Middleware/RFAL/rfal_rfst25r3916.o \
+./Middleware/RFAL/rfal_st25tb.o \
+./Middleware/RFAL/rfal_st25xv.o \
+./Middleware/RFAL/rfal_t1t.o \
+./Middleware/RFAL/rfal_t2t.o \
+./Middleware/RFAL/rfal_t4t.o \
+./Middleware/RFAL/st25r3916.o \
+./Middleware/RFAL/st25r3916_aat.o \
+./Middleware/RFAL/st25r3916_com.o \
+./Middleware/RFAL/st25r3916_irq.o \
+./Middleware/RFAL/st25r3916_led.o 
+
+C_DEPS += \
+./Middleware/RFAL/rfal_analogConfig.d \
+./Middleware/RFAL/rfal_crc.d \
+./Middleware/RFAL/rfal_dpo.d \
+./Middleware/RFAL/rfal_iso15693_2.d \
+./Middleware/RFAL/rfal_isoDep.d \
+./Middleware/RFAL/rfal_nfc.d \
+./Middleware/RFAL/rfal_nfcDep.d \
+./Middleware/RFAL/rfal_nfca.d \
+./Middleware/RFAL/rfal_nfcb.d \
+./Middleware/RFAL/rfal_nfcf.d \
+./Middleware/RFAL/rfal_nfcv.d \
+./Middleware/RFAL/rfal_rfst25r3916.d \
+./Middleware/RFAL/rfal_st25tb.d \
+./Middleware/RFAL/rfal_st25xv.d \
+./Middleware/RFAL/rfal_t1t.d \
+./Middleware/RFAL/rfal_t2t.d \
+./Middleware/RFAL/rfal_t4t.d \
+./Middleware/RFAL/st25r3916.d \
+./Middleware/RFAL/st25r3916_aat.d \
+./Middleware/RFAL/st25r3916_com.d \
+./Middleware/RFAL/st25r3916_irq.d \
+./Middleware/RFAL/st25r3916_led.d 
+
+
+# Each subdirectory must supply rules for building sources it contributes
+Middleware/RFAL/rfal_analogConfig.o: C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_analogConfig.c Middleware/RFAL/subdir.mk
+	arm-none-eabi-gcc "$<" -mcpu=cortex-m4 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32L476xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -Os -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "$@"
+Middleware/RFAL/rfal_crc.o: C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_crc.c Middleware/RFAL/subdir.mk
+	arm-none-eabi-gcc "$<" -mcpu=cortex-m4 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32L476xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -Os -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "$@"
+Middleware/RFAL/rfal_dpo.o: C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_dpo.c Middleware/RFAL/subdir.mk
+	arm-none-eabi-gcc "$<" -mcpu=cortex-m4 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32L476xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -Os -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "$@"
+Middleware/RFAL/rfal_iso15693_2.o: C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_iso15693_2.c Middleware/RFAL/subdir.mk
+	arm-none-eabi-gcc "$<" -mcpu=cortex-m4 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32L476xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -Os -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "$@"
+Middleware/RFAL/rfal_isoDep.o: C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_isoDep.c Middleware/RFAL/subdir.mk
+	arm-none-eabi-gcc "$<" -mcpu=cortex-m4 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32L476xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -Os -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "$@"
+Middleware/RFAL/rfal_nfc.o: C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_nfc.c Middleware/RFAL/subdir.mk
+	arm-none-eabi-gcc "$<" -mcpu=cortex-m4 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32L476xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -Os -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "$@"
+Middleware/RFAL/rfal_nfcDep.o: C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_nfcDep.c Middleware/RFAL/subdir.mk
+	arm-none-eabi-gcc "$<" -mcpu=cortex-m4 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32L476xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -Os -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "$@"
+Middleware/RFAL/rfal_nfca.o: C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_nfca.c Middleware/RFAL/subdir.mk
+	arm-none-eabi-gcc "$<" -mcpu=cortex-m4 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32L476xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -Os -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "$@"
+Middleware/RFAL/rfal_nfcb.o: C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_nfcb.c Middleware/RFAL/subdir.mk
+	arm-none-eabi-gcc "$<" -mcpu=cortex-m4 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32L476xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -Os -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "$@"
+Middleware/RFAL/rfal_nfcf.o: C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_nfcf.c Middleware/RFAL/subdir.mk
+	arm-none-eabi-gcc "$<" -mcpu=cortex-m4 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32L476xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -Os -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "$@"
+Middleware/RFAL/rfal_nfcv.o: C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_nfcv.c Middleware/RFAL/subdir.mk
+	arm-none-eabi-gcc "$<" -mcpu=cortex-m4 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32L476xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -Os -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "$@"
+Middleware/RFAL/rfal_rfst25r3916.o: C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/st25r3916/rfal_rfst25r3916.c Middleware/RFAL/subdir.mk
+	arm-none-eabi-gcc "$<" -mcpu=cortex-m4 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32L476xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -Os -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "$@"
+Middleware/RFAL/rfal_st25tb.o: C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_st25tb.c Middleware/RFAL/subdir.mk
+	arm-none-eabi-gcc "$<" -mcpu=cortex-m4 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32L476xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -Os -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "$@"
+Middleware/RFAL/rfal_st25xv.o: C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_st25xv.c Middleware/RFAL/subdir.mk
+	arm-none-eabi-gcc "$<" -mcpu=cortex-m4 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32L476xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -Os -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "$@"
+Middleware/RFAL/rfal_t1t.o: C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_t1t.c Middleware/RFAL/subdir.mk
+	arm-none-eabi-gcc "$<" -mcpu=cortex-m4 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32L476xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -Os -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "$@"
+Middleware/RFAL/rfal_t2t.o: C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_t2t.c Middleware/RFAL/subdir.mk
+	arm-none-eabi-gcc "$<" -mcpu=cortex-m4 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32L476xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -Os -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "$@"
+Middleware/RFAL/rfal_t4t.o: C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_t4t.c Middleware/RFAL/subdir.mk
+	arm-none-eabi-gcc "$<" -mcpu=cortex-m4 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32L476xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -Os -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "$@"
+Middleware/RFAL/st25r3916.o: C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/st25r3916/st25r3916.c Middleware/RFAL/subdir.mk
+	arm-none-eabi-gcc "$<" -mcpu=cortex-m4 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32L476xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -Os -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "$@"
+Middleware/RFAL/st25r3916_aat.o: C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/st25r3916/st25r3916_aat.c Middleware/RFAL/subdir.mk
+	arm-none-eabi-gcc "$<" -mcpu=cortex-m4 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32L476xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -Os -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "$@"
+Middleware/RFAL/st25r3916_com.o: C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/st25r3916/st25r3916_com.c Middleware/RFAL/subdir.mk
+	arm-none-eabi-gcc "$<" -mcpu=cortex-m4 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32L476xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -Os -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "$@"
+Middleware/RFAL/st25r3916_irq.o: C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/st25r3916/st25r3916_irq.c Middleware/RFAL/subdir.mk
+	arm-none-eabi-gcc "$<" -mcpu=cortex-m4 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32L476xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -Os -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "$@"
+Middleware/RFAL/st25r3916_led.o: C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/st25r3916/st25r3916_led.c Middleware/RFAL/subdir.mk
+	arm-none-eabi-gcc "$<" -mcpu=cortex-m4 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32L476xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -Os -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "$@"
+
+clean: clean-Middleware-2f-RFAL
+
+clean-Middleware-2f-RFAL:
+	-$(RM) ./Middleware/RFAL/rfal_analogConfig.cyclo ./Middleware/RFAL/rfal_analogConfig.d ./Middleware/RFAL/rfal_analogConfig.o ./Middleware/RFAL/rfal_analogConfig.su ./Middleware/RFAL/rfal_crc.cyclo ./Middleware/RFAL/rfal_crc.d ./Middleware/RFAL/rfal_crc.o ./Middleware/RFAL/rfal_crc.su ./Middleware/RFAL/rfal_dpo.cyclo ./Middleware/RFAL/rfal_dpo.d ./Middleware/RFAL/rfal_dpo.o ./Middleware/RFAL/rfal_dpo.su ./Middleware/RFAL/rfal_iso15693_2.cyclo ./Middleware/RFAL/rfal_iso15693_2.d ./Middleware/RFAL/rfal_iso15693_2.o ./Middleware/RFAL/rfal_iso15693_2.su ./Middleware/RFAL/rfal_isoDep.cyclo ./Middleware/RFAL/rfal_isoDep.d ./Middleware/RFAL/rfal_isoDep.o ./Middleware/RFAL/rfal_isoDep.su ./Middleware/RFAL/rfal_nfc.cyclo ./Middleware/RFAL/rfal_nfc.d ./Middleware/RFAL/rfal_nfc.o ./Middleware/RFAL/rfal_nfc.su ./Middleware/RFAL/rfal_nfcDep.cyclo ./Middleware/RFAL/rfal_nfcDep.d ./Middleware/RFAL/rfal_nfcDep.o ./Middleware/RFAL/rfal_nfcDep.su ./Middleware/RFAL/rfal_nfca.cyclo ./Middleware/RFAL/rfal_nfca.d ./Middleware/RFAL/rfal_nfca.o ./Middleware/RFAL/rfal_nfca.su ./Middleware/RFAL/rfal_nfcb.cyclo ./Middleware/RFAL/rfal_nfcb.d ./Middleware/RFAL/rfal_nfcb.o ./Middleware/RFAL/rfal_nfcb.su ./Middleware/RFAL/rfal_nfcf.cyclo ./Middleware/RFAL/rfal_nfcf.d ./Middleware/RFAL/rfal_nfcf.o ./Middleware/RFAL/rfal_nfcf.su ./Middleware/RFAL/rfal_nfcv.cyclo ./Middleware/RFAL/rfal_nfcv.d ./Middleware/RFAL/rfal_nfcv.o ./Middleware/RFAL/rfal_nfcv.su ./Middleware/RFAL/rfal_rfst25r3916.cyclo ./Middleware/RFAL/rfal_rfst25r3916.d ./Middleware/RFAL/rfal_rfst25r3916.o ./Middleware/RFAL/rfal_rfst25r3916.su ./Middleware/RFAL/rfal_st25tb.cyclo ./Middleware/RFAL/rfal_st25tb.d ./Middleware/RFAL/rfal_st25tb.o ./Middleware/RFAL/rfal_st25tb.su ./Middleware/RFAL/rfal_st25xv.cyclo ./Middleware/RFAL/rfal_st25xv.d ./Middleware/RFAL/rfal_st25xv.o ./Middleware/RFAL/rfal_st25xv.su ./Middleware/RFAL/rfal_t1t.cyclo ./Middleware/RFAL/rfal_t1t.d ./Middleware/RFAL/rfal_t1t.o ./Middleware/RFAL/rfal_t1t.su ./Middleware/RFAL/rfal_t2t.cyclo ./Middleware/RFAL/rfal_t2t.d ./Middleware/RFAL/rfal_t2t.o ./Middleware/RFAL/rfal_t2t.su ./Middleware/RFAL/rfal_t4t.cyclo ./Middleware/RFAL/rfal_t4t.d ./Middleware/RFAL/rfal_t4t.o ./Middleware/RFAL/rfal_t4t.su ./Middleware/RFAL/st25r3916.cyclo ./Middleware/RFAL/st25r3916.d ./Middleware/RFAL/st25r3916.o ./Middleware/RFAL/st25r3916.su ./Middleware/RFAL/st25r3916_aat.cyclo ./Middleware/RFAL/st25r3916_aat.d ./Middleware/RFAL/st25r3916_aat.o ./Middleware/RFAL/st25r3916_aat.su ./Middleware/RFAL/st25r3916_com.cyclo ./Middleware/RFAL/st25r3916_com.d ./Middleware/RFAL/st25r3916_com.o ./Middleware/RFAL/st25r3916_com.su ./Middleware/RFAL/st25r3916_irq.cyclo ./Middleware/RFAL/st25r3916_irq.d ./Middleware/RFAL/st25r3916_irq.o ./Middleware/RFAL/st25r3916_irq.su ./Middleware/RFAL/st25r3916_led.cyclo ./Middleware/RFAL/st25r3916_led.d ./Middleware/RFAL/st25r3916_led.o ./Middleware/RFAL/st25r3916_led.su
+
+.PHONY: clean-Middleware-2f-RFAL
+

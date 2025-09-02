@@ -1,0 +1,12 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_nfcf.c:173:13:rfalNfcfComputeValidSENF	72	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_nfcf.c:254:12:rfalNfcfPollerInitialize	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_nfcf.c:274:12:rfalNfcfPollerPoll	24	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_nfcf.c:291:12:rfalNfcfPollerStartCheckPresence	24	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_nfcf.c:280:12:rfalNfcfPollerCheckPresence	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_nfcf.c:303:12:rfalNfcfPollerGetCheckPresenceStatus	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_nfcf.c:322:12:rfalNfcfPollerStartCollisionResolution	32	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_nfcf.c:352:12:rfalNfcfPollerGetCollisionResolutionStatus	24	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_nfcf.c:310:12:rfalNfcfPollerCollisionResolution	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_nfcf.c:430:12:rfalNfcfPollerCheck	128	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_nfcf.c:518:12:rfalNfcfPollerUpdate	56	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/rfal_nfcf.c:618:6:rfalNfcfListenerIsT3TReq	0	static

@@ -1,0 +1,6 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:943:6:USBD_ParseSetupRequest	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:972:6:USBD_CtlError	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:102:20:USBD_StdDevReq	60
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:165:20:USBD_StdItfReq	9
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:237:20:USBD_StdEPReq	32
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:989:6:USBD_GetString	6

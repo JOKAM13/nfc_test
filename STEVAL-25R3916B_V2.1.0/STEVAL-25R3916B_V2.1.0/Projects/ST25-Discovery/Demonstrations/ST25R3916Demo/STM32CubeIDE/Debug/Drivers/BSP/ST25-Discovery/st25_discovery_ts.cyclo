@@ -1,0 +1,5 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/ST25-Discovery/st25_discovery_ts.c:49:9:BSP_TS_Init	2
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/ST25-Discovery/st25_discovery_ts.c:80:9:BSP_TS_ITConfig	2
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/ST25-Discovery/st25_discovery_ts.c:99:9:BSP_TS_ITGetStatus	2
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/ST25-Discovery/st25_discovery_ts.c:116:6:BSP_TS_GetState	11
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/ST25-Discovery/st25_discovery_ts.c:201:6:BSP_TS_ITClear	2

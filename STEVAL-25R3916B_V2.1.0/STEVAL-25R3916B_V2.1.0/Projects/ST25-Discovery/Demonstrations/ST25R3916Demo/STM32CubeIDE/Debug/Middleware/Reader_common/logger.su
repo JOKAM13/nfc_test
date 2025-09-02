@@ -1,0 +1,4 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/Reader_common/firmware/STM/STM32/Src/logger.c:71:6:logUsartInit	0	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/Reader_common/firmware/STM/STM32/Src/logger.c:83:9:logUsartTx	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/Reader_common/firmware/STM/STM32/Src/logger.c:100:5:logUsart	272	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/Reader_common/firmware/STM/STM32/Src/logger.c:124:7:hex2Str	12	static

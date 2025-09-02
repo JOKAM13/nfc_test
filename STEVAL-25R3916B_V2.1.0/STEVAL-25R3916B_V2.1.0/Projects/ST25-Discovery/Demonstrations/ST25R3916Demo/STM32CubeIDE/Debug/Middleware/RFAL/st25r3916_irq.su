@@ -1,0 +1,12 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/st25r3916/st25r3916_irq.c:82:6:st25r3916InitInterrupts	0	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/st25r3916/st25r3916_irq.c:109:6:st25r3916CheckForReceivedInterrupts	24	static,ignoring_inline_asm
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/st25r3916/st25r3916_irq.c:96:6:st25r3916Isr	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/st25r3916/st25r3916_irq.c:141:6:st25r3916ModifyInterrupts	16	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/st25r3916/st25r3916_irq.c:167:10:st25r3916WaitForInterruptsTimed	24	static,ignoring_inline_asm
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/st25r3916/st25r3916_irq.c:193:10:st25r3916GetInterrupt	0	static,ignoring_inline_asm
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/st25r3916/st25r3916_irq.c:218:6:st25r3916EnableInterrupts	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/st25r3916/st25r3916_irq.c:210:6:st25r3916ClearAndEnableInterrupts	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/st25r3916/st25r3916_irq.c:225:6:st25r3916DisableInterrupts	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/st25r3916/st25r3916_irq.c:231:6:st25r3916ClearInterrupts	16	static,ignoring_inline_asm
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/st25r3916/st25r3916_irq.c:244:6:st25r3916IRQCallbackSet	0	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/RFAL/source/st25r3916/st25r3916_irq.c:251:6:st25r3916IRQCallbackRestore	0	static

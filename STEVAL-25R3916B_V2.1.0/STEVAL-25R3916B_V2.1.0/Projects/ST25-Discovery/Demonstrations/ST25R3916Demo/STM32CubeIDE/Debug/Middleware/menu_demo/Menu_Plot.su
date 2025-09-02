@@ -1,0 +1,6 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/menu_demo/Menu_Plot.c:23:6:Menu_DisplaySegment	56	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/menu_demo/Menu_Plot.c:55:6:Menu_DisplaySinglePoint	40	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/menu_demo/Menu_Plot.c:61:6:Menu_DisplayPoints	40	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/menu_demo/Menu_Plot.c:81:6:Menu_DisplayGrid	104	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/menu_demo/Menu_Plot.c:139:17:Menu_DisplayCenterPlot	120	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/menu_demo/Menu_Plot.c:218:9:Menu_PlotInput	16	static

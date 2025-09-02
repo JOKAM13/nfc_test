@@ -1,0 +1,6 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/ST25-Discovery/st25_discovery_dpot.c:44:9:BSP_DPOT_Init	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/ST25-Discovery/st25_discovery_dpot.c:61:10:BSP_DPOT_GetResistor	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/ST25-Discovery/st25_discovery_dpot.c:78:6:BSP_DPOT_SetResistor	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/ST25-Discovery/st25_discovery_dpot.c:105:6:BSP_DPOT_Reset	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/ST25-Discovery/st25_discovery_dpot.c:114:6:BSP_DPOT_Shutdown	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Drivers/BSP/ST25-Discovery/st25_discovery_dpot.c:123:21:BSP_DPOT_GetExtended_Drv	0	static

@@ -1,0 +1,13 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t5t.c:636:19:ndefT5TWriteCC	8
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t5t.c:135:12:ndefT5TPollerSetAccessMode	1
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t5t.c:213:12:ndefT5TPollerContextInitialization	5
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t5t.c:277:12:ndefT5TPollerNdefDetect	36
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t5t.c:478:12:ndefT5TPollerReadRawMessage	14
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t5t.c:520:12:ndefT5TPollerWriteRawMessageLen	12
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t5t.c:682:12:ndefT5TPollerTagFormat	18
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t5t.c:791:12:ndefT5TPollerCheckPresence	3
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t5t.c:807:12:ndefT5TPollerCheckAvailableSpace	4
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t5t.c:831:12:ndefT5TPollerBeginWriteMessage	5
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t5t.c:865:12:ndefT5TPollerEndWriteMessage	5
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t5t.c:577:12:ndefT5TPollerWriteRawMessage	10
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t5t.c:894:12:ndefT5TPollerSetReadOnly	5

@@ -1,0 +1,12 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jdhuff.c:465:1:jpeg_fill_bit_buffer	13
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jdhuff.c:592:1:jpeg_huff_decode	8
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jdhuff.c:636:1:process_restart	6
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jdhuff.c:695:1:decode_mcu_DC_first	16
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jdhuff.c:766:1:decode_mcu_AC_first	21
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jdhuff.c:855:1:decode_mcu_DC_refine	9
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jdhuff.c:904:1:decode_mcu_AC_refine	41
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jdhuff.c:1059:1:decode_mcu_sub	43
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jdhuff.c:1187:1:decode_mcu	43
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jdhuff.c:323:1:jpeg_make_d_derived_tbl	25
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jdhuff.c:1310:1:start_pass_huff_decoder	41
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/Third_Party/LibJPEG/source/jdhuff.c:1509:1:jinit_huff_decoder	5

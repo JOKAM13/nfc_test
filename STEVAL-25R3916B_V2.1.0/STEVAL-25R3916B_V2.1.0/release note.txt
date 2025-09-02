@@ -1,0 +1,53 @@
+CHANGELOG:
+
+st25r3916B_fw v2.1.0
+- Update rfal to v3.0.0
+- Align demos with new rfal version
+- Reactivate wake up feature for ST25R3916B
+- changed NDEF lib
+- Updated L4 HAL Cube drivers to v1.18.0 and CMSIS to v5.6.0
+- Aligned NDEF size (for card emulation) with T4T Mapping version 2.0
+- Added project files for STM32CubeIDE
+- Fix gcc warnings
+
+st25r3916B_fw v2.0.1
+- Bug fix
+- Change binary name
+
+st25r3916B_fw v2.0.0
+- New board design update M25R16B, TouchScreen not availalbe on it
+- Adapt libs and demo to M25R16B without touchscreen
+
+st25r3916B_fw v1.5.2
+- Project files updates
+- Minor fixes
+
+st25r3916B_fw v1.5.0
+- Change target name and binary name
+
+st25r3916B_fw v1.4.2
+- Move to RFAL 2.6.0 + dependencies update
+- Added support for ST25R3916B
+- Minor fixes
+
+st25r3916B_fw v1.2.1
+- ARM Project update to v5.0.6 update 7
+- Use RFAL_COMPLIANCE_MODE_ISO with Type 5 tags
+
+st25r3916B_fw v1.2.0
+- Updated RFAL to 2.2.0
+
+st25r3916B_fw v1.1.1
+- fix call of dispatcher for managing asynchronous features
+
+st25r3916B_fw v1.1.0
+- Added TrueSTUDIO project files.
+- Updated AAT
+
+st25r3916B_fw v1.0.1
+- Added support for random UID to the poller demo
+- p2p improvment
+- minor fix
+
+st25r3916B_fw v1.0.0
+- First Initial Release

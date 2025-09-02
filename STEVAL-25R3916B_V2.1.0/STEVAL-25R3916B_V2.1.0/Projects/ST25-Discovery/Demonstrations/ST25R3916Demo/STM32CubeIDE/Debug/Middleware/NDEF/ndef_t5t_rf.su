@@ -1,0 +1,14 @@
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t5t_rf.c:496:19:ndefT5TPollerReadSingleBlock	48	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t5t_rf.c:273:19:ndefT5TGetSystemInformation	56	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t5t_rf.c:560:19:ndefT5TPollerReadMultipleBlocks	56	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t5t_rf.c:752:19:ndefT5TPollerWriteSingleBlock	40	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t5t_rf.c:131:6:ndefT5TisSTDevice	0	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t5t_rf.c:143:6:ndefT5TisT5TDevice	0	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t5t_rf.c:155:12:ndefT5TPollerAccessMode	16	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t5t_rf.c:202:9:ndefT5TGetBlockLength	32	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t5t_rf.c:244:12:ndefT5TGetMemoryConfig	8	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t5t_rf.c:374:6:ndefT5TIsMultipleBlockReadSupported	24	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t5t_rf.c:391:12:ndefT5TPollerReadBytes	64	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t5t_rf.c:611:12:ndefT5TPollerWriteBytes	64	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t5t_rf.c:730:12:ndefT5TIsDevicePresent	24	static
+C:/Users/lenat/STM32CubeIDE/workspace_1.18.1/STEVAL-25R3916B_V2.1.0/Middlewares/ST/NDEF/source/poller/ndef_t5t_rf.c:841:12:ndefT5TLockDevice	32	static
